@@ -4,11 +4,11 @@ This have css/html/javacript inside
 
 THIS IS CREATED WITH HELP OF KIMI AI
 
-Download the html file
+Download the html file or create your html file with Visual code studio
 
 Save it to your computer
 
-Open the html  with a compatible Web Browser : Chrome/Firefox/Brave
+Open the html  with a compatible Web Browser : Chrome/Firefox/Brave....
 
 And you can use fully the local C.ai in your web brower
 
@@ -16,6 +16,8 @@ Go to settings/Api's/and enter a Groq api = you can make a free api key with thi
 
 Enter the key and saves the changes
 
-And now you can talk with the characters you can create with my html
+Create the character with the button + and add everything needed inside lkke prompt or first message
+
+And now you can talk with the characters you can create for free
 
 Enjoy !

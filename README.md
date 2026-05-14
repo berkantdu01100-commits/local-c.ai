@@ -21,3 +21,9 @@ Create the character with the button + and add everything needed inside lkke pro
 And now you can talk with the characters you can create for free
 
 Enjoy !
+
+You can generate images, regenrate the message, use microphone instead of writting....
+
+If you find any bugs you can repport to my github space and i will improve my html file
+
+You can suggest some updates i can do too

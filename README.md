@@ -1,5 +1,7 @@
 Read me : This is my V4 local C.ai for web browser
 
+This have css/html/javacript inside
+
 THIS IS CREATED WITH HELP OF KIMI AI
 
 Download the html file
